@@ -10,7 +10,7 @@ You will need 180 Mb free on internal data storage (or 200 Mb for office suite),
 
 This app is NOT full Debian OS - it is a compatibility layer, which allows you to run Debian applications.
 Your phone is NOT rooted during installation. 
-Also, this is NOT official Debian.org release.
+Also, this is NOT official Debian.ilelease.
 
 There are several limitations:
 
